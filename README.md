@@ -11,3 +11,9 @@ January 28, 2025: Java String Handling, Common Built-in Functions, and Java Date
 January 30, 2025: Object-Oriented Programming Fundamentals
 
 January 31, 2025: Java Constructors, Instance vs. Class Variables, and Access Modifiers
+
+February 2, 2025 : Asssignment Submitted of Java Constructors, Instance vs. Class Variables, and Access Modifiers
+
+February 3, 2025 : Understanding of this, static, final key words and instanceof operator 
+
+February 4, 2025 : Assignment Submission of this, static, final key words and instanceof Operator Level 1 Lab Practice
