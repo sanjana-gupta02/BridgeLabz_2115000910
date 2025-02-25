@@ -1,0 +1,15 @@
+ID,Name,Department,Salary
+101,John Doe,Engineering,60000
+102,Jane Smith,HR,50000
+103,Michael Brown,Marketing,55000
+104,Alice Williams,Finance,62000
+105,Bob Johnson,Sales,58000
+
+
+ID,Name,Email,Phone,Department,Salary
+101,John Doe,john.doe@example.com,9876543210,Engineering,60000
+102,Jane Smith,jane.smith@company,123456789,HR,50000
+103,Michael Brown,michael.brown@email.com,9988776655,Marketing,55000
+104,Alice Williams,alice@xyz.com,12345,Finance,62000
+105,Bob Johnson,bob.johnson@company.com,9876543211,IT,58000
+
